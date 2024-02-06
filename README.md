@@ -11,5 +11,5 @@
 \
 \
 ### pytorch code 실습 및 transformer structure 공부
-1. pytorch code 실습 ->
+1. pytorch code practice
 2. transformer structure : [https://proud-may-09b.notion.site/Transformer-Structure-11-22-81b342d511614936b0e4e49cff2ba12b?pvs=4] (23.11.22)
